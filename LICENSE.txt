@@ -1,0 +1,1 @@
+This project is provided as a starter template for the user. You are responsible for reviewing, securing, testing, and legally configuring it before production use.
